@@ -4,8 +4,8 @@ My solution to the [Recipe page challenge on Frontend Mentor](https://www.fronte
 
 ## Links
 
-- Live site: https://yourname.github.io/recipe-page/
-- Repository: https://github.com/yourname/recipe-page
+- Live site: https://theint-hub.github.io/recipe-page/
+- Repository: https://github.com/theint-hub/recipe-page
 
 ## Built with
 
