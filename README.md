@@ -4,7 +4,7 @@ My solution to the [Recipe page challenge on Frontend Mentor](https://www.fronte
 
 ## Links
 
-- Live site: 
+- Live site:  https://theint-hub.github.io/recipe-page/
 - Repository: https://github.com/theint-hub/recipe-page
 
 ## Built with
